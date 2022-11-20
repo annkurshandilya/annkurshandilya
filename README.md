@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @annkurshandilya
-- 👀 I’m interested to work for anyone with the need of custom software development or consultation.
 - 🌱 I've been working in complete software development life cycle from end to end to create scalable and efficient systems that are both functional and beautiful.
 - 💞️ Connect with me for any software development need.
 - 📫 We can connect on - annkur27@gmail.com
